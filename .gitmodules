@@ -1,0 +1,6 @@
+[submodule "EVM_Minter_Codes/PolygonMinter"]
+	path = EVM_Minter_Codes/PolygonMinter
+	url = https://github.com/PhatDot1/PolygonMinter
+[submodule "Solana_Minter_Codes/SolanaMinter"]
+	path = Solana_Minter_Codes/SolanaMinter
+	url = https://github.com/PhatDot1/Sol_NFT_Candymachine
