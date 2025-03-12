@@ -4,3 +4,6 @@
 [submodule "Solana_Minter_Codes/SolanaMinter"]
 	path = Solana_Minter_Codes/SolanaMinter
 	url = https://github.com/PhatDot1/Sol_NFT_Candymachine
+[submodule "EVM_Minter_Codes/refactored-polygon-minter"]
+	path = EVM_Minter_Codes/refactored-polygon-minter
+	url = git@github.com:PhatDot1/Encode_Polygon_Minter_Refactored.git
